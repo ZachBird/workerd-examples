@@ -8,8 +8,6 @@ https://github.com/cloudflare/workerd/tree/main/samples
 
 #### usage
 
-# Hello World Example
-
 To run the example on http://localhost:8888
 
 configuration of example is in **config.capnp** file
